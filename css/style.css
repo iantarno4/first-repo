@@ -1,0 +1,119 @@
+body{
+	font-family:'Orbitron', sans-serif;
+	font-size:20px;
+	line-height: 1.5;
+	margin:0;
+	padding:0;
+	background-image: url("../images/comp.jpg")
+
+
+
+}
+	.container{
+		width:80%;
+		margin:auto;
+	}
+	ul{
+		margin:0;
+		padding:0;
+	}
+
+ button{
+ 	height: 40px;
+ 	background:#80aaff;
+ 	border:none;
+ 	padding:0 20px;
+ 	color:#fff;
+
+
+ }
+ 	header{
+ 		background-color:#35424a;
+ 		min-height: 70px;
+ 		padding-top:30px;
+ 		border-bottom:yellow 3px solid;
+ 	}
+ 	header, li{
+		list-style: none;
+		display: inline;;
+		padding:0 20px 0 20px;
+
+
+	 }
+	 header, a{
+	 	color:purple;
+	 	font-size: 20px;
+	 	text-decoration:none;
+	 	text-transform: uppercase;
+	 }
+	 header, a:hover{
+	 	font-weight: bold;
+	 	color:green;
+	 	
+
+	 }
+
+	 .logo{
+	 	color:black;
+	 	text-align: center;
+	 	background:#80aaff;
+	 	border:5px solid black;
+	 	font-family:'Stalinist One', cursive; 
+
+	 }
+
+	 header nav{
+	 	float:right;
+	 	margin-top:15px;
+	 }
+	 #showcase{
+	 	min-height: 400px;
+	 	text-align: center;
+	 	background:url("../images/gtr.jpg") 
+	 	no-repeat;
+	 	background-size:cover;
+	 	color:black;
+	 	font-size: 1.5em;
+	 	margin-bottom: 15px;
+	 	border-radius: 30%;
+	 	border-color: yellow;
+	 	border-style: inset;
+
+	 }
+	 .nav{
+	 	background:#ff66ff;
+	 }
+
+	 #subscribe{
+	 	background-color: #35433a;
+	 	padding:15px;
+	 	color:#fff;
+	 }
+	 #subscribe h3{
+	 	float:left;
+	 	margin-right:100px;
+
+	 }
+
+	 #subscribe input{
+	 	padding:5px;
+	 	height:25px;
+	 	width:;
+	 }
+	 #grids{
+	 	display:block;
+	 	margin-top:20px;
+
+	 }
+
+
+	 .grid img{
+	 	width:150px;
+	 	
+	 }
+
+	 .grid{
+	 	width:80%;
+	 	
+
+	 }
